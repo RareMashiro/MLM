@@ -1,3 +1,3 @@
 # MMO
-This repository contains MMO's data.
-Here you can see my workfiles, if you want
+This repository contains MLM's data.
+Here you can see my workfiles about Machine Learning Methods.
